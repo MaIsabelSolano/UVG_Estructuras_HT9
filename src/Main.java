@@ -17,10 +17,9 @@ import java.util.*;
 
 class Main {
   public static void main(String[] args) {
-    
-		Factory factory = new Factory();
-		Scanner scan = new Scanner(System.in);
-		Mapa map;
+	  Factory factory = new Factory();
+	  Scanner scan = new Scanner(System.in);
+	  Map mapa
 		
 		//utiles
 		private String Msgerror = "Se ha producido un error, ingrese una opci\u00edn v\u00e1lida";
